@@ -1,6 +1,5 @@
 import com.db4o.*;
 import com.db4o.query.*;
-
 public class EmpRetrieve
 {
     public static void main(String[] args) 
